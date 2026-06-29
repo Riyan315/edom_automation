@@ -74,7 +74,7 @@ while True:
     print("[1] Lanjut isi lagi (Part selanjutnya)")
     print("[2] Selesai")
     
-    pilihan = input("👉 Masukkan angka (1/2) lalu tekan ENTER: ")
+    pilihan = input(" Masukkan angka (1/2) lalu tekan ENTER: ")
     
     if pilihan == '2':
         print("\nSip, pengisian selesai. Jangan lupa klik tombol Simpan terakhir di webnya!")
