@@ -2,17 +2,17 @@ Panduan Penggunaan EDOM Auto-Filler (Semi-Otomatis)
 Program ini didesain untuk membantu pengisian kuesioner EDOM secara semi-otomatis dengan kontrol penuh dari pengguna.
 
 Cara Menggunakan
-Persiapan: Pastikan selenium sudah terinstall (pip install selenium).
+1. Persiapan: Pastikan selenium sudah terinstall (pip install selenium).
 
-Jalankan Program: Buka terminal di folder tempat file disimpan, ketik python auto_edom.py.
+2. Jalankan Program: Buka terminal di folder tempat file disimpan, ketik python auto_edom.py.
 
-Login: Browser akan terbuka. Lakukan login manual ke i-GRACIAS dan navigasi hingga halaman kuesioner Part 1 muncul di layar.
+3. Login: Browser akan terbuka. Lakukan login manual ke i-GRACIAS dan navigasi hingga halaman kuesioner Part 1 muncul di layar.
 
-Eksekusi: Kembali ke terminal, tekan ENTER. Program akan otomatis mengisi seluruh pilihan ganda dan kolom komentar di halaman tersebut.
+4. Eksekusi: Kembali ke terminal, tekan ENTER. Program akan otomatis mengisi seluruh pilihan ganda dan kolom komentar di halaman tersebut.
 
-Navigasi Part: * Setelah Part selesai diisi, pindah ke Part berikutnya di halaman browser secara manual (klik tombol 'Update' atau 'Part' selanjutnya).
+5. Navigasi Part: * Setelah Part selesai diisi, pindah ke Part berikutnya di halaman browser secara manual (klik tombol 'Update' atau 'Part' selanjutnya).
 
-Kembali ke terminal, pilih [1] untuk lanjut mengisi Part baru, atau [2] jika kuesioner sudah selesai.
+5. Kembali ke terminal, pilih [1] untuk lanjut mengisi Part baru, atau [2] jika kuesioner sudah selesai.
 
 ⚠️ PERINGATAN PENTING (BACA INI)
 Program ini hanya berfungsi untuk kuesioner yang menggunakan format template standar.
